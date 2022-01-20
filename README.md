@@ -15,10 +15,12 @@
 ## Usage
 - Github Repo: https://github.com/jdomindev/employee-tracker
 - Screenshots:
-    - ![Prompt](./images/.png)
+    ![Prompt](./images/ET-prompts.png)
+    ![Demo1](./images/ET-demo1.png)
+    ![Demo2](./images/ET-demo2.png)
 - Video:
-    - [Demo-video]()
-    - ![Demo-gif](./images/.gif)
+    - [Demo-video](https://drive.google.com/file/d/1m9ZUuesM-TskxpG_YnLNi858p7koRE6W/view?usp=sharing)
+    ![Demo-gif](./images/ET-demo-video.gif)
 ## Credits
 - N/A
 ## License
